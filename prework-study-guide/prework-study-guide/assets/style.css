@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header
+{
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    background-image: linear-gradient(rgb(138, 216, 214), rgb(255, 255, 255));
+}   
+footer {
+    width: 100%;
+    height: 50px;
+    background-image: linear-gradient(rgb(255, 255, 255), rgb(185, 252, 249));
+}
+h1
+{
+    text-align: center;
+    color: #f5ffff;
+}
+h2 {
+    text-align: center;
+    color: #004340;
+    padding: 10px;
+}
+img {
+    display: block;
+    height: 50px;
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul {
+    padding-left: 30px;
+    padding-bottom: 20px;
+    font-size: 17px;
+    color: #00514e;
+}
+p {
+    text-align: center;
+    font-size: 20px;
+    color: #c4e6e6;   
+  }
+  .card {
+    width: 75%;
+    margin: 40px auto;
+    border: 2px solid #e5f4f3;
+    box-shadow: 10px 5px 5px #eff9f9;
+  }
